@@ -1,4 +1,4 @@
-# Veya Connection Workflow
+# TruHyre Connection Workflow
 
 This project is currently frontend-only. APIs and secrets should be connected
 after the Vercel deployment is reviewed.

@@ -1,6 +1,6 @@
-# Veya Recruit Suite
+# TruHyre Recruit Suite
 
-Veya is a recruitment workspace for managing resume intake, candidate parsing,
+TruHyre is a recruitment workspace for managing resume intake, candidate parsing,
 client submissions, vendor queues, status flow, and notifications.
 
 Built for Closing Gap.

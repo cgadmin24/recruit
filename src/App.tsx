@@ -355,11 +355,11 @@ function LoginView({
       <section className="login-panel" aria-label="Closing Gap sign in">
         <div className="login-brand">
           <div className="brand-mark login-mark" aria-hidden="true">
-            V
+            T
           </div>
           <div>
             <span>Closing Gap</span>
-            <strong>Veya Recruit Suite</strong>
+            <strong>TruHyre Recruit Suite</strong>
           </div>
         </div>
 
@@ -1016,10 +1016,10 @@ function Sidebar({
     <aside className="sidebar" aria-label="Main navigation">
       <div className="brand-lockup">
         <div className="brand-mark" aria-hidden="true">
-          V
+          T
         </div>
         <div>
-          <strong>Veya</strong>
+          <strong>TruHyre</strong>
           <span>Closing Gap</span>
         </div>
       </div>
@@ -1626,7 +1626,7 @@ function requireSeed<T>(items: readonly T[], label: string): T {
   const first = items[0]
 
   if (!first) {
-    throw new Error(`Veya seed data requires at least one ${label} item.`)
+    throw new Error(`TruHyre seed data requires at least one ${label} item.`)
   }
 
   return first
